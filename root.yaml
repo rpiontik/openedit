@@ -1,0 +1,7 @@
+# Манифест описывающий сам DocHub
+imports:
+  # Подключение манифестов
+  - docs/root.yaml
+  - arch/root.yaml
+  - entities/root.yaml
+  - poc/root.yaml
